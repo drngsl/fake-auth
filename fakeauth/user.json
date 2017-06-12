@@ -1,0 +1,23 @@
+{
+    "service_catalog": [
+
+    ],
+    "tenant_name": "demo",
+    "domain_id": "none",
+    "unscoped_token": "d7e8802f50fb428d9739e791cc281bb9",
+    "domain_name": "none",
+    "id": "3b9fba266b2c46e8a1ca9cfa90516b47",
+    "project_id": "2f5c9fba964c4e99962e21c90eea7c1a",
+    "user": "admin",
+    "project_name": "demo",
+    "services_region": "RegionOne",
+    "endpoint": "http: //127.0.0.1:5000/v2.0",
+    "roles": [
+        {
+            "name": "admin"
+        }
+    ],
+    "tenant_id": "2f5c9fba964c4e99962e21c90eea7c1a",
+    "enabled": true,
+    "is_federated": false
+}
